@@ -15,7 +15,7 @@ void Settitle(){
 		system("mode con:line=45 cols=95 | title=EraPi, 공화국 컴퓨터에 파괴공작을 진행합니다...")
 		break;
 	case 4:
-		system("mode con:line=45 cols=95 | title=EraPi, 연방의 기적적인 1승! 모두가 놀라다!")
+		system("mode con:line=45 cols=95 | title=EraPi, 제임스 죽다?!!?!?!?!!?")
 		break;
 	}
 }
